@@ -19,12 +19,18 @@ body {
 }
 
 .navbar-nav {
+    padding-top: 50px;
     padding-left: 150px;
+    position: fixed;
 }
 
+.nav-link:hover {
+    margin-bottom: 30px;
+    color: yellow;
+}
 
 .nav-link {
-    padding: 40px;
+    padding: 60px;
     padding-bottom: 0;
     margin-bottom: 0;
     margin-left: 10px;
@@ -36,18 +42,53 @@ body {
 }
 
 .traco {
+    padding-top: 20px;
     color: white;
+    text-align: center;
 }
+
+
 
 .bg-image img {
     background-color: white;
+    background-repeat: no-repeat;
+    filter: brightness(30%);
     position: absolute;
-    z-index: -200;
+    z-index: -1;
     top: 0;
-    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-image_2 img {
+    filter: brightness(30%);
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    height: auto;
 }
 
 .Corpus-text {
+    padding-top: 80px;
+    padding-left: 40px;
+    align-items: flex-start;
+    color: white;
+}
+
+.bg-logo img {
+    width: 500px;
+}
+
+.planos {
+    padding-top: 150px;
+    padding-left: 40px;
     align-items: flex-start;
     color: white;
 }

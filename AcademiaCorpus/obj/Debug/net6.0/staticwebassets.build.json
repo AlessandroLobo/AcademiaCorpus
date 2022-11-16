@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hTnMrS9XdmxyhjmxY92cBQYEYUJ4tz/rKmMSroxSwv0=",
+  "Hash": "tuWlq04op09KlhxXkdJLXgXHOZLrqAzzT9f1p7cMm8M=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg"
+    },
+    {
+      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\Logo.png"
     },
     {
       "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",

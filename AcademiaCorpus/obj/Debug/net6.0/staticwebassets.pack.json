@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
+      "PackagePath": "staticwebassets\\imagens\\Logo.png"
+    },
+    {
       "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",
       "PackagePath": "staticwebassets\\imagens\\Modelo-Home.jpg"
     },
