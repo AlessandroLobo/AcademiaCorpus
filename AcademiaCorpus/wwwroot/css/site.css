@@ -1,18 +1,53 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: black;
+}
+
+.navbar-nav {
+    padding-left: 150px;
+}
+
+
+.nav-link {
+    padding: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.center-traco {
+    align-items: flex-start;
+}
+
+.traco {
+    color: white;
+}
+
+.bg-image img {
+    background-color: white;
+    position: absolute;
+    z-index: -200;
+    top: 0;
+    width: 100%;
+}
+
+.Corpus-text {
+    align-items: flex-start;
+    color: white;
 }

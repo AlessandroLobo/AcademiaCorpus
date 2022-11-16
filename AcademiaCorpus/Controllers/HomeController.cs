@@ -18,7 +18,7 @@ namespace AcademiaCorpus.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Planos()
         {
             return View();
         }
