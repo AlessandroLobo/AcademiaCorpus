@@ -10,20 +10,34 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-transparent  box-shadow mb-3">
-            <div class="container-fluid">
+
+
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm fixed-top  navbar-light bg-black  box-shadow mb-3">
+
+
+
+            <div class="container-fluid mb-3">
+
+                <div class="bg-logo flex-column">
+                    <a href="https://www.instagram.com/academiacorpusfranca/" class="d-inline-block align-top col-1"><img src="~/imagens/Logo.png" /></a>
+                </div>
+
                 @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AcademiaCorpus</a>*@
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+
+                <button class="navbar-toggler"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon bg-light"></span>
                 </button>
 
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a href="#" class="d-inline-block align-top nav-link"><img src="~/imagens/Logo.png" width="150" /></a>
-                        </li>
 
+                    <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
                         </li>
@@ -34,15 +48,14 @@
                             <a class=" nav-link text-white" asp-area="" asp-controller="Home" asp-action="Planos">AGENDE SEU HORÁRIO </a>
                         </li>
                     </ul>
+
                 </div>
             </div>
         </nav>
     </header>
 
-
-
     <div class="bg-image">
-        <img src="~/imagens/Modelo-Home2.jpg">
+        <img src="~/imagens/Dumbbells.jpg">
     </div>
 
     <div class="container">

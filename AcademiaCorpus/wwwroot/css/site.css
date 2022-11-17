@@ -18,53 +18,24 @@ body {
     background-color: black;
 }
 
-/*.navbar-nav {
-    padding-top: 50px;
-    padding-left: 150px;
-    position: fixed;
-}
-
-.nav-link:hover, .nav-link:focus {
-    color: blue !important;
-    font-size: 30px;
-}
-
-.nav-link {
-    padding: 60px;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    margin-left: 10px;
-    font-size: 25px;
-}
-
-
-
-.traco {
-    padding-top: 20px;
-    color: white;
-    text-align: center;
-    max-width: auto;
-    min-height: auto;
-}
-*/
 
 
 .bg-image img {
     background-color: white;
     background-repeat: no-repeat;
-    filter: brightness(30%);
+    filter: brightness(60%);
     position: absolute;
     z-index: -1;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    /*height: 400px;*/
 }
 
 .bg-image_2 img {
-    filter: brightness(30%);
+    filter: brightness(40%);
     position: absolute;
     z-index: -1;
     top: 0;
@@ -84,6 +55,9 @@ body {
 
 .bg-logo img {
     width: 200px;
+    margin: 10px;
+    margin-left: 50px;
+    margin-right: 100px;
 }
 
 .planos {
@@ -91,4 +65,16 @@ body {
     padding-left: 40px;
     align-items: flex-start;
     color: white;
+}
+
+
+.nav-item {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.nav-link:hover {
+    padding-bottom: 5px;
+    color: #ef8f22 !important;
+    border-bottom: 2px solid #ef8f22;
 }
