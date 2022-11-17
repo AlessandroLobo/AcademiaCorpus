@@ -15,12 +15,16 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-color: black;
 }
 
-
+.local {
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+}
 
 .bg-image img {
+    padding-top: 90px;
     background-color: white;
     background-repeat: no-repeat;
     filter: brightness(60%);
@@ -31,7 +35,7 @@ body {
     left: 0;
     right: 0;
     width: 100%;
-    /*height: 400px;*/
+    max-height: 400px;
 }
 
 .bg-image_2 img {
@@ -54,11 +58,13 @@ body {
 }
 
 .bg-logo img {
-    width: 200px;
-    margin: 10px;
+    width: 150px;
+    margin: 5px;
     margin-left: 50px;
     margin-right: 100px;
 }
+
+
 
 .planos {
     padding-top: 150px;
@@ -77,4 +83,40 @@ body {
     padding-bottom: 5px;
     color: #ef8f22 !important;
     border-bottom: 2px solid #ef8f22;
+}
+
+.endereco h5 {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.ver-mapa {
+    text-align: center;
+}
+
+
+
+.horarios {
+    padding-top: 10px;
+}
+
+
+.horario-funcionamento {
+    background-color: #eeeeee;
+}
+
+.dias-abertos {
+    padding-top: 50px;
+    margin: 0;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+
+
+.dias-da-semana {
+    font-weight: 500;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
 }
