@@ -18,15 +18,15 @@ body {
     background-color: black;
 }
 
-.navbar-nav {
+/*.navbar-nav {
     padding-top: 50px;
     padding-left: 150px;
     position: fixed;
 }
 
-.nav-link:hover {
-    margin-bottom: 30px;
-    color: yellow;
+.nav-link:hover, .nav-link:focus {
+    color: blue !important;
+    font-size: 30px;
 }
 
 .nav-link {
@@ -37,16 +37,16 @@ body {
     font-size: 25px;
 }
 
-.center-traco {
-    align-items: flex-start;
-}
+
 
 .traco {
     padding-top: 20px;
     color: white;
     text-align: center;
+    max-width: auto;
+    min-height: auto;
 }
-
+*/
 
 
 .bg-image img {
@@ -77,13 +77,13 @@ body {
 
 .Corpus-text {
     padding-top: 80px;
-    padding-left: 40px;
+    padding-left: 10px;
     align-items: flex-start;
     color: white;
 }
 
 .bg-logo img {
-    width: 500px;
+    width: 200px;
 }
 
 .planos {
