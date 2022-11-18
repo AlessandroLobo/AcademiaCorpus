@@ -23,6 +23,7 @@ body {
     color: white;
 }
 
+
 .bg-image img {
     padding-top: 90px;
     background-color: white;
@@ -39,6 +40,7 @@ body {
 }
 
 .bg-image_2 img {
+    padding-top: 90px;
     filter: brightness(40%);
     position: absolute;
     z-index: -1;
@@ -91,17 +93,20 @@ body {
 }
 
 .ver-mapa {
+    padding-top: 40px;
     text-align: center;
 }
 
 
 
 .horarios {
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 
-.horario-funcionamento {
+.horarios-funcionamento {
+    text-align: center;
+    padding-top: 60px;
     background-color: #eeeeee;
 }
 
@@ -121,9 +126,86 @@ body {
     justify-content: space-between;
 }
 
+
+
 .whats {
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 100px;
+    right: 30px;
     z-index: 9999;
+}
+
+
+.navbar-toggler {
+    background-color: #ef8f22 !important;
+    border-color: #ef8f22 !important;
+}
+
+.corpo {
+    margin-top: 400px;
+}
+
+.container {
+    text-align: center;
+}
+
+.diferenciais-icones1 {
+    float: left;
+    padding: 10px;
+}
+
+.text-icon1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diferenciais-icones2 {
+    float: left;
+    padding: 10px;
+}
+
+
+.text-icon2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diferenciais-icones3 {
+    float: left;
+    padding: 10px;
+}
+
+.text-icon3 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diferenciais-icones4 {
+    float: left;
+    padding: 10px;
+}
+
+.text-icon4 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diferenciais-icones5 {
+    float: left;
+    padding: 10px;
+}
+
+.text-icon5 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diferenciais-icones6 {
+    float: left;
+    padding: 10px;
+}
+
+.text-icon6 {
+    text-align: center;
+    padding-top: 20px;
 }

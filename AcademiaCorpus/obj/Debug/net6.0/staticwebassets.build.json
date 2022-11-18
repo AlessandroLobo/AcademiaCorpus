@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MQaDnMqlK4cLxrB+DQXV4Q4n2EiZjbNHGpOlZuGtk1o=",
+  "Hash": "MNJinR7y8eRs5g8jhLHHh2/J9SfPY+QZhtzt+zZ7l3E=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\imagens\\Dumbbells.jpg"
     },
     {
+      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/gym_header.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\gym_header.jpg"
+    },
+    {
       "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home2.jpg"
+    },
+    {
+      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/WhatsApp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\WhatsApp.png"
     },
     {
       "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
