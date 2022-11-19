@@ -1,86 +1,90 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<div class="bg-image">
+<div class="bg-image ">
     <img src="~/imagens/gym_header.jpg">
 </div>
 
+<div class="bnt-aula-teste">
+    <a href="https://wa.me/5516991844434" target="_blank" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Quero fazer uma aula teste!</a>
+</div>
 
+<div class="corpo clearfix">
+    <div class="float-sm-start col-sm-1 col-md-6 clearfix">
+        <div class="informacoes-endereco">
+            <div class="float-sm-start ">
+                <div class="text-center">
+                    <h5>
+                        AvenidaAv. Rio Amazonas, 1174 <br />
+                        Residencial Amazonas<br />
+                        Franca, SP - 14406-010
+                    </h5>
+                </div>
 
-<div class="corpo clearfix" style="border:1px solid red;">
+                <div class=" ver-mapa ">
+                    <strong><a style="color:black;" href="https://www.google.com/search?q=rua+rio+amazonas+1174&oq=rua+rio+amazonas+1174&aqs=chrome..69i57j33i160l3.6713j0j7&sourceid=chrome&ie=UTF-8" target="_blank">VER NO MAPA</a></strong>
+                </div>
 
-    <div class="float-sm-start col-sm-1 col-md-6 clearfix" style="border:1px solid red;">
-
-        <div class="float-sm-start ">
-            <div class="text-center">
-                <h5>
-                    AvenidaAv. Rio Amazonas, 1174 <br />
-                    Residencial Amazonas<br />
-                    Franca, SP - 14406-010
-                </h5>
-            </div>
-
-            <div class=" ver-mapa ">
-                <strong><a style="color:black;" href="https://www.google.com/search?q=rua+rio+amazonas+1174&oq=rua+rio+amazonas+1174&aqs=chrome..69i57j33i160l3.6713j0j7&sourceid=chrome&ie=UTF-8" target="_blank">VER NO MAPA</a></strong>
-            </div>
-
-            <div class="horarios-funcionamento">
-                <div class="float-sm-start  ">
-                    <h4><strong>Horário de funcionamento</strong></h4>
-                    <div class="horarios">
-                        <div class="dias-da-semana">
-                            <div class="dias-da-semana-itens">
-                                <p> Seg a Sex</p>
-                            </div>
-                            <div class="dias-da-semana-itens">
-                                <p> 6h as 11h - 16h as 21h</p>
+                <div class="horarios-funcionamento">
+                    <div class="float-sm-start  ">
+                        <h4><strong>Horário de funcionamento</strong></h4>
+                        <div class="horarios">
+                            <div class="dias-da-semana">
+                                <div class="dias-da-semana-itens">
+                                    <p> Seg a Sex</p>
+                                </div>
+                                <div class="dias-da-semana-itens">
+                                    <p> 6h as 11h - 16h as 21h</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 
-    <div class="float-sm-end col-sm-1 col-md-6 clearfix">
-        <div class=" text-sm-center text-md-start ">
+    <div class="float-sm-end float-md-end col-sm-1 col-md-6 clearfix">
+        <div class="diferenciais ">
             <h4><span> Diferenciais  </span></h4>
         </div>
         @*ícones ---------------------------------------------------*@
         <div class="clearfix">
-            <div class="diferenciais-icones1">
-                <img src="~/imagens/icones/personal.png">
-                <h6 class="text-icon1">Personal <br /> formado</h6>
-            </div>
+            <div class="icone-container">
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/personal.png" width="60">
+                    <h6 class="text-icon">Personal <br /> formado</h6>
+                </div>
 
-            <div class="diferenciais-icones2">
-                <img src="~/imagens/icones/prancheta.png">
-                <h6 class="text-icon2">Avaliações</h6>
-            </div>
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/prancheta.png" width="60">
+                    <h6 class="text-icon">Avaliações</h6>
+                </div>
 
-            <div class="diferenciais-icones3">
-                <img src="~/imagens/icones/peckDeck.png">
-                <h6 class="text-icon3">Equipamentos <br /> seguros</h6>
-            </div>
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/peckDeck.png" width="60">
+                    <h6 class="text-icon">Equipamentos <br /> seguros</h6>
+                </div>
 
-            <div class="diferenciais-icones4">
-                <img src="~/imagens/icones/coracao.png">
-                <h6 class="text-icon4">Ambiente <br /> saudável</h6>
-            </div>
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/coracao.png" width="60">
+                    <h6 class="text-icon">Ambiente <br /> saudável</h6>
+                </div>
 
-            <div class="diferenciais-icones5">
-                <img src="~/imagens/icones/vestiario.png">
-                <h6 class="text-icon5">Vestiário <br />com ducha</h6>
-            </div>
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/peso.png" width="60">
+                    <h6 class="text-icon">Varios <br />aparelhos</h6>
+                </div>
 
-            <div class="diferenciais-icones6">
-                <img src="~/imagens/icones/peso.png">
-                <h6 class="text-icon6">Varios <br />aparelhos</h6>
+                <div class="diferenciais-icones">
+                    <img src="~/imagens/icones/vestiario.png" width="60">
+                    <h6 class="text-icon">Vestiário <br />com ducha</h6>
+                </div>
             </div>
-            @*ícones fim -----------------------------------------------*@
 
         </div>
-
     </div>
+    @*ícones fim -----------------------------------------------*@
+
+
 </div>
