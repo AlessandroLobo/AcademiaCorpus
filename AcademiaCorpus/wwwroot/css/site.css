@@ -396,7 +396,18 @@ footer {
     cursor: pointer;
 }
 
+#box-hide {
+    height: 200px;
+    color: black;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
 #box-informacao {
+    height: 200px;
     color: black;
     padding: 50px;
     display: flex;
@@ -406,6 +417,7 @@ footer {
 }
 
 #box-informacao2 {
+    height: 200px;
     color: black;
     padding: 50px;
     display: flex;
@@ -415,6 +427,7 @@ footer {
 }
 
 #box-informacao3 {
+    height: 200px;
     color: black;
     padding: 50px;
     display: flex;
