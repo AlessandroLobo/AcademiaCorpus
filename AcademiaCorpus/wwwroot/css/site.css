@@ -396,7 +396,25 @@ footer {
     cursor: pointer;
 }
 
-.box-informacao {
+#box-informacao {
+    color: black;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#box-informacao2 {
+    color: black;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#box-informacao3 {
     color: black;
     padding: 50px;
     display: flex;

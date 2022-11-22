@@ -2,6 +2,7 @@
     ViewData["Title"] = "Planos";
 }
 
+
 <div class="planos">
     <h1>@ViewData["Title"]</h1>
 </div>
@@ -18,7 +19,7 @@
 <div class="planos-cards">
     <div class=" planos-box float-sm-start col-sm-2 col-md-4">
         <div class="card-box">
-            <div class="cards">
+            <div onmouseover="mostrarDiv1()" onmouseout="esconderDiv1()" class="cards">
                 <h1>Mensal</h1>
                 <h6 class="passe-livre">
                     Passe livre, treine quantas vezes quizer
@@ -45,7 +46,7 @@
     </div>
 
     <div class=" planos-box float-sm-start col-sm-2 col-md-4">
-        <div class="cards">
+        <div onmouseover="mostrarDiv2()" onmouseout="esconderDiv2()" class="cards">
             <h1>Semestral</h1>
             <h6 class="passe-livre">
                 Passe livre, treine quantas vezes quizer
@@ -71,7 +72,7 @@
     </div>
 
     <div class=" planos-box float-sm-start col-sm-2 col-md-4">
-        <div class="cards">
+        <div onmouseover="mostrarDiv3()" onmouseout="esconderDiv3()" class="cards">
             <h1>Recorrente</h1>
             <h6 class="passe-livre">
                 Passe livre, treine quantas vezes quizer
@@ -95,9 +96,74 @@
                target="_blank" title="Assine agora">Chame agora</a>
         </div>
     </div>
-    <div class="box-informacao">
-        <h2>Informações para o aluno</h2>
+
+    <div id="box-hide">
+        <h4>
+            No plano <strong>mensal</strong> você paga a matricula no valor de
+            R$30,00 e R$109,90 a vista e treina um mês voltando a pagar no vencimento.
+        </h4>
     </div>
+
+    <div id="box-informacao" style='display: none;'>
+        <h4>
+            No plano <strong>mensal</strong> você paga a matricula no valor de
+            R$30,00 e R$109,90 a vista e treina um mês voltando a pagar no vencimento.
+        </h4>
+    </div>
+    <div id="box-informacao2" style='display: none;'>
+        <h4>
+            No plano <strong>semestra</strong> você paga a matricula de R$30,00 a vista e o valor de R$599,40
+            dividido em 6 vezes de R$99,90
+        </h4>
+    </div>
+    <div id="box-informacao3" style='display: none;'>
+        <h4>
+            No plano <strong>recorrente</strong> você paga uma matricula no valor de R$90,00
+            cadastra seu cartão nos informando a data de
+            fechamento do fatura para que a primeira mensalidade venha com o mês vencido
+        </h4>
+    </div>
+
 </div>
 
+
+<script>
+
+
+    // controle box-informacao hide show
+    function mostrarDiv1() {
+        document.getElementById('box-informacao').style.display = 'block';
+    }
+
+    function esconderDiv1() {
+        document.getElementById('box-informacao').style.display = 'none';
+
+    }
+
+    // controle box-informacao2 hide show
+    function mostrarDiv2() {
+        document.getElementById('box-informacao2').style.display = 'block';
+    }
+
+    function esconderDiv2() {
+        ;
+        document.getElementById('box-informacao2').style.display = 'none'
+
+    }
+
+    // controle box-informacao3 hide show
+    function mostrarDiv3() {
+        document.getElementById('box-informacao3').style.display = 'block';
+    }
+
+    function esconderDiv3() {
+        document.getElementById('box-informacao3').style.display = 'none';
+
+    }
+
+</script>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
 
