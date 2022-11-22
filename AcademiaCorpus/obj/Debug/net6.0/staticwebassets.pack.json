@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg",
+      "PackagePath": "staticwebassets\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg"
+    },
+    {
       "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Dumbbells.jpg",
       "PackagePath": "staticwebassets\\imagens\\Dumbbells.jpg"
     },
@@ -47,6 +51,10 @@
     {
       "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
       "PackagePath": "staticwebassets\\imagens\\gym_header.jpg"
+    },
+    {
+      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg",
+      "PackagePath": "staticwebassets\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg"
     },
     {
       "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\coracao.png",

@@ -116,12 +116,6 @@ footer {
     text-align: center;
 }
 
-.planos {
-    padding-top: 150px;
-    padding-left: 40px;
-    align-items: flex-start;
-    color: white;
-}
 
 
 .nav-item {
@@ -160,7 +154,6 @@ footer {
 .horarios-funcionamento {
     text-align: center;
     padding-top: 60px;
-    background-color: #eeeeee;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -239,4 +232,175 @@ footer {
 .text-icon {
     text-align: center;
     padding-top: 10px;
+}
+
+
+
+/*--------------Planos-------------------*/
+.planos {
+    color: black;
+    padding-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.acelerar-resultados {
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.planos-box {
+    color: white;
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.planos-cards {
+    max-width: 800px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 250px;
+    margin: auto;
+}
+
+.cards {
+    color: black;
+    width: 200px;
+    height: 300px;
+    flex-shrink: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 10px;
+    gap: 10px;
+    width: 230px;
+    min-height: 430px;
+    padding: 20px 15px;
+    background: hsla(0,0%,100%,.8);
+    border-radius: 20px;
+    outline: 2px solid transparent;
+    box-shadow: 0 3px 17px rgb(0 0 0 /40%);
+    transition: .25s;
+}
+
+    .cards:hover {
+        border: solid 3px #ef8f22;
+        width: 240px;
+    }
+
+.passe-livre {
+    margin: 0;
+}
+
+.new-home-preco {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: #1c1c1c;
+}
+
+    .new-home-preco sub {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        position: relative;
+        top: 40px;
+    }
+
+    .new-home-preco span {
+        font-weight: 500;
+        font-size: 50px;
+    }
+
+    .new-home-preco div sup {
+        font-weight: 500;
+        font-size: 20px;
+        margin-right: 3px;
+        top: 18px;
+    }
+
+    .new-home-preco div span {
+        font-family: Gotham,sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        position: relative;
+        top: -7px;
+        top: 15px;
+        left: -5px;
+    }
+
+.new-home-v4-btn--yellow {
+    color: #1c1c1c !important;
+    background-color: #ffad12;
+}
+
+.new-home-v4-btn--thin {
+    padding: 8px 16px !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.new-home-v4-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 315px;
+    padding: 12px 18px;
+    border-radius: 26px;
+    border: 0;
+    font-family: Gotham-Medium,sans-serif;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.new-home-v4-btn--yellow {
+    color: #1c1c1c !important;
+    background-color: #ffad12;
+}
+
+.new-home-v4-btn--thin {
+    padding: 8px 16px !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.new-home-v4-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 315px;
+    padding: 12px 18px;
+    border-radius: 26px;
+    border: 0;
+    font-family: Gotham-Medium,sans-serif;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.box-informacao {
+    color: black;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
 }
