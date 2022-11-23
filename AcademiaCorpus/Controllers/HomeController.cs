@@ -15,11 +15,19 @@ namespace AcademiaCorpus.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.OpcaoMenu = 1;
             return View();
         }
 
         public IActionResult Planos()
         {
+            ViewBag.OpcaoMenu = 2;
+            return View();
+        }
+
+        public IActionResult FaleConosco()
+        {
+            ViewBag.OpcaoMenu = 2;
             return View();
         }
 

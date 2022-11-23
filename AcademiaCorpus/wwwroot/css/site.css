@@ -129,6 +129,12 @@ footer {
     border-bottom: 2px solid #ef8f22;
 }
 
+.active {
+    padding-bottom: 5px;
+    color: #ef8f22 !important;
+    border-bottom: 2px solid #ef8f22;
+}
+
 .informacoes-endereco {
     display: flex;
     flex-wrap: wrap;
@@ -240,6 +246,7 @@ footer {
 .planos {
     color: black;
     padding-top: 150px;
+    padding-bottom: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -290,14 +297,21 @@ footer {
     background: hsla(0,0%,100%,.8);
     border-radius: 20px;
     outline: 2px solid transparent;
-    box-shadow: 0 3px 17px rgb(0 0 0 /40%);
-    transition: .25s;
+    box-shadow: 0 3px 27px rgb(0 0 0 /40%);
+    transition: .50s;
+    transform-origin: 0%
 }
 
     .cards:hover {
-        border: solid 3px #ef8f22;
+        border: solid 5px #ef8f22;
         width: 240px;
+        transform: translateY(-20px)
     }
+
+
+
+
+
 
 .passe-livre {
     margin: 0;
@@ -397,7 +411,7 @@ footer {
 }
 
 #box-hide {
-    height: 200px;
+    height: 250px;
     color: black;
     padding: 50px;
     display: flex;
@@ -407,31 +421,101 @@ footer {
 }
 
 #box-informacao {
-    height: 200px;
+    height: 250px;
     color: black;
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    animation: fly 2s;
+    animation-fill-mode: forwards;
 }
+
+    #box-informacao h4 {
+        flex-shrink: 0;
+        margin: 0;
+        flex-direction: column;
+        grid-gap: 10px;
+        gap: 10px;
+        padding: 20px 15px;
+        background: hsla(0,0%,100%,.8);
+        border-radius: 20px;
+        outline: 2px solid transparent;
+        animation: fly-borda 1s;
+        animation-fill-mode: forwards;
+    }
 
 #box-informacao2 {
-    height: 200px;
+    height: 250px;
     color: black;
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    animation: fly 2s;
+    animation-fill-mode: forwards;
 }
 
+    #box-informacao2 h4 {
+        flex-shrink: 0;
+        margin: 0;
+        flex-direction: column;
+        grid-gap: 10px;
+        gap: 10px;
+        padding: 20px 15px;
+        background: hsla(0,0%,100%,.8);
+        border-radius: 20px;
+        outline: 2px solid transparent;
+        animation: fly-borda 1s;
+        animation-fill-mode: forwards;
+    }
+
 #box-informacao3 {
-    height: 200px;
+    height: 250px;
     color: black;
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    animation: fly 2s;
+    animation-fill-mode: forwards;
+}
+
+    #box-informacao3 h4 {
+        flex-shrink: 0;
+        margin: 0;
+        flex-direction: column;
+        grid-gap: 10px;
+        gap: 10px;
+        padding: 20px 15px;
+        background: hsla(0,0%,100%,.8);
+        border-radius: 20px;
+        outline: 2px solid transparent;
+        animation: fly-borda 1s;
+        animation-fill-mode: forwards;
+    }
+
+@keyframes fly {
+    0% {
+        color: white;
+    }
+
+    100% {
+        color: #1c1c1c;
+    }
+}
+
+@keyframes fly-borda {
+    0% {
+        color: white;
+        box-shadow: 0 3px 27px rgb(0 0 0 /0%);
+    }
+
+    100% {
+        color: #1c1c1c;
+        box-shadow: 0 3px 27px rgb(0 0 0 /40%);
+    }
 }
