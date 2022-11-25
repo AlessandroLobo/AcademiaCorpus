@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TsF4ublaEMRHJc7McCF5IBDGxEdyNodhQ89iTW+arTM=",
+  "Hash": "q51SCmxCqAjfuC93B9hDdHGqgMkmrfdHe/MqtpaNhY0=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AcademiaCorpus\\wwwroot",
       "Source": "AcademiaCorpus",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AcademiaCorpus.styles.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AcademiaCorpus.styles.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "AcademiaCorpus.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AcademiaCorpus.styles.css"
+      "OriginalItemSpec": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AcademiaCorpus.styles.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "AcademiaCorpus.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\css\\site.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\favicon.ico",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/13138894_622748091211880_6458100198576206404_n.jpg",
       "AssetKind": "All",
@@ -102,10 +102,27 @@
       "OriginalItemSpec": "wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\banerSite.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/banerSite.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\banerSite.jpg"
+    },
+    {
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Dumbbells.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Dumbbells.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/Dumbbells.jpg",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\Dumbbells.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/gym_header.jpg",
       "AssetKind": "All",
@@ -187,27 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\gym_header.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\coracao.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
-      "BasePath": "_content/AcademiaCorpus",
-      "RelativePath": "imagens/icones/13138894_622748091211880_6458100198576206404_n.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg"
-    },
-    {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\coracao.png",
-      "SourceId": "AcademiaCorpus",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/coracao.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\coracao.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\corredor.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\corredor.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/corredor.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\corredor.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peckDeck.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peckDeck.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/peckDeck.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\peckDeck.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\personal.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\personal.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/personal.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\personal.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peso.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peso.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/peso.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\peso.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\prancheta.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\prancheta.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/prancheta.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\prancheta.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\vestiario.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\vestiario.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/icones/vestiario.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\vestiario.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/Logo.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\Logo.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/Modelo-Home.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home2.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home2.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/Modelo-Home2.jpg",
       "AssetKind": "All",
@@ -374,10 +374,27 @@
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home2.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/videos/POSTAGEM INSTAGRAN AGOSTO 22.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4"
+    },
+    {
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/WhatsApp.png",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\WhatsApp.png"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "imagens/women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\js\\site.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
       "BasePath": "_content/AcademiaCorpus",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -208,7 +208,7 @@ footer {
     bottom: 60px;
     right: 30px;
     z-index: 9999;
-    animation: scaleWhats 2s linear infinite alternate-reverse;
+    animation: scaleWhats 1s linear infinite alternate-reverse;
 }
 
 @keyframes scaleWhats {
@@ -224,7 +224,6 @@ footer {
 
 .corpo {
     margin-top: 50px;
-    padding-bottom: 50px;
 }
 
 .diferenciais {
@@ -233,6 +232,7 @@ footer {
     justify-content: center;
     text-align: center;
 }
+
 
 .container-icone {
     max-width: 480px;
@@ -248,7 +248,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    padding-bottom: 200px;
+    padding-bottom: 60px;
 }
 
 .diferenciais-icones {
@@ -265,8 +265,41 @@ footer {
     padding-top: 10px;
 }
 
+.image-black {
+    background-color: black;
+}
+
+.img-baner img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 850px;
+}
+
+.video {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    max-width: 450px;
+    padding: 20px;
+}
 
 
+
+    .video h3 {
+        color: red;
+        padding-bottom: 20px;
+    }
+
+.video {
+    width: 90%;
+}
 /*--------------Planos-------------------*/
 .planos {
     color: black;
@@ -552,6 +585,8 @@ footer {
 
 .card-contato {
     padding: 200px;
+    padding-top: 300px;
+    padding-bottom: 300px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

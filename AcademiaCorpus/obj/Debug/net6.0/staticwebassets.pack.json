@@ -1,327 +1,331 @@
 {
   "Files": [
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AcademiaCorpus.bundle.scp.css",
       "PackagePath": "staticwebassets\\AcademiaCorpus.bundle.scp.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\css\\site.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\favicon.ico",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg",
       "PackagePath": "staticwebassets\\imagens\\13138894_622748091211880_6458100198576206404_n.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Dumbbells.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Dumbbells.jpg",
       "PackagePath": "staticwebassets\\imagens\\Dumbbells.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
       "PackagePath": "staticwebassets\\imagens\\Logo.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home.jpg",
       "PackagePath": "staticwebassets\\imagens\\Modelo-Home.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home2.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Modelo-Home2.jpg",
       "PackagePath": "staticwebassets\\imagens\\Modelo-Home2.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
       "PackagePath": "staticwebassets\\imagens\\WhatsApp.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\banerSite.jpg",
+      "PackagePath": "staticwebassets\\imagens\\banerSite.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg",
       "PackagePath": "staticwebassets\\imagens\\black-women-model-portrait-blonde-simple-background-320829-wallhere.com.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg",
       "PackagePath": "staticwebassets\\imagens\\black-women-model-portrait-sportswear-sitting-270800-wallhere.com.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg",
       "PackagePath": "staticwebassets\\imagens\\close-up-of-many-metal-dumbbells-on-rack-in-sport-fitness-center.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\gym_header.jpg",
       "PackagePath": "staticwebassets\\imagens\\gym_header.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg",
-      "PackagePath": "staticwebassets\\imagens\\icones\\13138894_622748091211880_6458100198576206404_n.jpg"
-    },
-    {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\coracao.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\coracao.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\coracao.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\corredor.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\corredor.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\corredor.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peckDeck.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peckDeck.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\peckDeck.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\personal.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\personal.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\personal.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peso.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\peso.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\peso.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\prancheta.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\prancheta.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\prancheta.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\vestiario.png",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\icones\\vestiario.png",
       "PackagePath": "staticwebassets\\imagens\\icones\\vestiario.png"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4",
+      "PackagePath": "staticwebassets\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4"
+    },
+    {
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg",
       "PackagePath": "staticwebassets\\imagens\\women-model-ass-sportswear-room-shorts-271054-wallhere.com.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg",
       "PackagePath": "staticwebassets\\imagens\\women-model-tanned-fitness-model-mouth-sports-bra-302966-wallhere.com.jpg"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\js\\site.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
