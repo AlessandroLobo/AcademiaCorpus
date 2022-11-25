@@ -74,6 +74,23 @@ footer {
         justify-content: center;
     }
 
+.melhor-academia {
+    color: red;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.linha-divisor {
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
 .corpo-total {
     margin: 200px;
 }
@@ -109,7 +126,9 @@ footer {
 }
 
 .bnt-aula-teste {
-    padding-top: 40px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -189,8 +208,14 @@ footer {
     bottom: 60px;
     right: 30px;
     z-index: 9999;
+    animation: scaleWhats 2s linear infinite alternate-reverse;
 }
 
+@keyframes scaleWhats {
+    to {
+        transform: translate(0px) scale(1.5)
+    }
+}
 
 .navbar-toggler {
     background-color: #ef8f22 !important;
@@ -283,7 +308,6 @@ footer {
 
 .cards {
     color: black;
-    width: 200px;
     height: 300px;
     flex-shrink: 0;
     margin: 0;
@@ -296,15 +320,15 @@ footer {
     padding: 20px 15px;
     background: hsla(0,0%,100%,.8);
     border-radius: 20px;
+    border: solid 0px #ef8f22;
     outline: 2px solid transparent;
+    box-shadow: 0 0px 0px 0px #ef8f22;
     box-shadow: 0 3px 27px rgb(0 0 0 /40%);
     transition: .50s;
-    transform-origin: 0%
 }
 
     .cards:hover {
-        border: solid 5px #ef8f22;
-        width: 240px;
+        box-shadow: 0 0px 0px 2px #ef8f22;
         transform: translateY(-20px)
     }
 
@@ -432,6 +456,8 @@ footer {
     animation-fill-mode: forwards;
 }
 
+
+
     #box-informacao h4 {
         flex-shrink: 0;
         margin: 0;
@@ -512,10 +538,60 @@ footer {
     0% {
         color: white;
         box-shadow: 0 3px 27px rgb(0 0 0 /0%);
+        border: solid 2px white;
     }
 
     100% {
         color: #1c1c1c;
         box-shadow: 0 3px 27px rgb(0 0 0 /40%);
+        border: solid 2px #ef8f22;
     }
+}
+
+/*--------------Fale conosco-------------------*/
+
+.card-contato {
+    padding: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.contato-card {
+    padding: 150px;
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background: hsla(0,0%,100%,.8);
+    border-radius: 20px;
+    outline: 2px solid transparent;
+    box-shadow: 0 3px 27px rgb(0 0 0 /40%);
+    transition: .50s;
+    transform-origin: 0%
+}
+
+    .contato-card:hover {
+        box-shadow: 0 0px 0px 2px #ef8f22;
+        transform: translateY(-20px)
+    }
+
+.precisa-falar {
+    min-width: 300px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.fale-conosco {
+    color: black;
+    padding-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
 }

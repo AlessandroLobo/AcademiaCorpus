@@ -27,7 +27,7 @@ namespace AcademiaCorpus.Controllers
 
         public IActionResult FaleConosco()
         {
-            ViewBag.OpcaoMenu = 2;
+            ViewBag.OpcaoMenu = 3;
             return View();
         }
 
