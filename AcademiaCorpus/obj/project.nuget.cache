@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TaHF8uIVMWNCbvY1uM9oRY5K9t32kx4GkFk0FH/zYAgt36gLUYPBWpSQpUuqII/4L27YbqG7zI3QrLFTXBUFSA==",
+  "dgSpecHash": "9pBYl7QsNGJXN7ToEQyEorThG4k0LBDPviBk/x/hqn+1J756eyFqMdJ/JoGlrGn3zydN8AT7mly7fC3qXcjpkw==",
   "success": true,
-  "projectFilePath": "F:\\ProjetosProgramação\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus.csproj",
+  "projectFilePath": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\AcademiaCorpus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aless\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\aless\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
