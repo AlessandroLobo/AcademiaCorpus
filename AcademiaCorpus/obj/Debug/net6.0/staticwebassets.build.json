@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q51SCmxCqAjfuC93B9hDdHGqgMkmrfdHe/MqtpaNhY0=",
+  "Hash": "dnil0T5xWOh4jGXG1EYU/ZG6OpB8dY4pqCWkgdDKjFc=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -372,6 +372,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home2.jpg"
+    },
+    {
+      "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\StartYour.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/StartYour.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\StartYour.jpg"
     },
     {
       "Identity": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4",

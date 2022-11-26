@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\imagens\\Modelo-Home2.jpg"
     },
     {
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\StartYour.jpg",
+      "PackagePath": "staticwebassets\\imagens\\StartYour.jpg"
+    },
+    {
       "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
       "PackagePath": "staticwebassets\\imagens\\WhatsApp.png"
     },

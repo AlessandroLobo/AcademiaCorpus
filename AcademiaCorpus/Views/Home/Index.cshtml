@@ -1,10 +1,19 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="bg-image ">
-    <img src="~/imagens/gym_header.jpg">
+<div class="image-Baner">
+    <div class="bg-image ">
+        <picture>
+            <source media="(max-width:480px)" srcset="~/imagens/StartYourVertical.jpg">
+            <source media="(max-width:768px)" srcset="~/imagens/StartYour.jpg">
+            <img src="~/imagens/StartYour.jpg">
+        </picture>
+    </div>
 </div>
+
+
+
+
 <div class="melhor-academia">
     <h1>Venha para a melhor academia de franca!</h1>
 </div>
