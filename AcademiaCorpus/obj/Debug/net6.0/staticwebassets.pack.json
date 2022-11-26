@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\imagens\\StartYour.jpg"
     },
     {
+      "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\StartYourVertical.jpg",
+      "PackagePath": "staticwebassets\\imagens\\StartYourVertical.jpg"
+    },
+    {
       "Id": "C:\\Projetos\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\WhatsApp.png",
       "PackagePath": "staticwebassets\\imagens\\WhatsApp.png"
     },

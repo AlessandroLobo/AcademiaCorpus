@@ -15,7 +15,7 @@
                 <div class="bg-logo flex-column">
                     <a href="https://www.instagram.com/academiacorpusfranca/" class="d-inline-block align-top col-1" target="_blank"><img src="~/imagens/Logo.png" /></a>
                 </div>
-                @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AcademiaCorpus</a>*@
+
                 <button class="navbar-toggler"
                         type="button"
                         data-bs-toggle="collapse"
@@ -28,13 +28,13 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 1 ? "active" : "") " asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
+                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 1 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
                         </li>
                         <li class="nav-item">
-                            <a class=" nav-link text-white @(ViewBag.OpcaoMenu == 2 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Planos">PLANOS</a>
+                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 2 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Planos">PLANOS</a>
                         </li>
                         <li class="nav-item">
-                            <a class=" nav-link text-white @(ViewBag.OpcaoMenu == 3 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="FaleConosco">Fale Conosco</a>
+                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 3 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="FaleConosco">Fale Conosco</a>
                         </li>
                     </ul>
 
