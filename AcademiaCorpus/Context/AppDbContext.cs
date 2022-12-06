@@ -10,6 +10,7 @@ public class AppDbContext : DbContext
 
     }
 
+    //Criando tabelas no bando de dados
     public DbSet<Aluno> Alunos { get; set; }
     public DbSet<Treino> Treinos { get; set; }
 
