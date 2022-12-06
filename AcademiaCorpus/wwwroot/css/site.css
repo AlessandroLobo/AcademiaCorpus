@@ -294,7 +294,8 @@ footer {
     max-width: 850px;
 }
 
-.video {
+
+.video-div {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -305,7 +306,9 @@ footer {
     padding: 20px;
 }
 
-
+.video source {
+    width: 90%;
+}
 
 .melhor-versao {
     padding-top: 50px;
@@ -322,9 +325,7 @@ footer {
     letter-spacing: -.03em;
 }
 
-.video {
-    width: 90%;
-}
+
 /*--------------Planos-------------------*/
 .planos {
     text-transform: uppercase;
