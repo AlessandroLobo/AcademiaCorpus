@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\imagens\\WhatsApp.png"
     },
     {
+      "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\imagens\\adminarea.jpg"
+    },
+    {
       "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\banerSite.jpg",
       "PackagePath": "staticwebassets\\imagens\\banerSite.jpg"
     },

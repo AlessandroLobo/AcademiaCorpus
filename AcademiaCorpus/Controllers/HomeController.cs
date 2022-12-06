@@ -31,6 +31,12 @@ namespace AcademiaCorpus.Controllers
             return View();
         }
 
+        public IActionResult Admin()
+        {
+            ViewBag.OpcaoMenu = 4;
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

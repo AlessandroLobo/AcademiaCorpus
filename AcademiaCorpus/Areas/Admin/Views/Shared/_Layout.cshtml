@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AcademiaCorpus</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AcademiaCorpus.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm fixed-top  navbar-light bg-black  box-shadow mb-3">
+            <div class="container-fluid mb-3">
+                <div class="bg-logo flex-column">
+                    <a href="https://www.instagram.com/academiacorpusfranca/" class="d-inline-block align-top col-1" target="_blank"><img src="~/imagens/Logo.png" /></a>
+                </div>
+
+                <button class="navbar-toggler"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon "></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 1 ? "active" : "")" asp-area="Admin" asp-controller="Treinos" asp-action="Index">HOME</a>
+                        </li>
+                        @* <li class="nav-item">
+                        <a class="nav-link text-white @(ViewBag.OpcaoMenu == 2 ? "active" : "")" asp-area="Admin" asp-controller="Home" asp-action="Planos">PLANOS</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link text-white @(ViewBag.OpcaoMenu == 3 ? "active" : "")" asp-area="Admin" asp-controller="Home" asp-action="FaleConosco">Fale Conosco</a>
+                        </li>*@
+                    </ul>
+
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+
+    <main role="main" class="pb-1">
+        @RenderBody()
+    </main>
+
+
+    <div class="whats">
+        <a href="https://wa.me/5516991844434" target="_blank">
+            <img src="~/imagens/WhatsApp.png" width="60" alt="Fale Conosco pelo WhatsApp" title="Fale Conosco pelo WhatsApp" />
+        </a>
+    </div>
+
+    <partial name="_Footer" />
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+</body>
+
+</html>
