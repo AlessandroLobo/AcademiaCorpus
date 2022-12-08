@@ -97,6 +97,18 @@
       "PackagePath": "staticwebassets\\imagens\\icones\\vestiario.png"
     },
     {
+      "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\login1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\login_48.png",
+      "PackagePath": "staticwebassets\\imagens\\login_48.png"
+    },
+    {
+      "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\registro1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\registro1.jpg"
+    },
+    {
       "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4",
       "PackagePath": "staticwebassets\\imagens\\videos\\POSTAGEM INSTAGRAN AGOSTO 22.mp4"
     },

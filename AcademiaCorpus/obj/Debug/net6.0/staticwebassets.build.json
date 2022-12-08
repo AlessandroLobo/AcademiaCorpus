@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rZeVPxNGQOtKqW6djSKr5/9S4ZtBmKMjLR1SXA7CDv8=",
+  "Hash": "us4jNxZeLW4bs+KEl1LSKojeAJMSQL5U+BqT3lOIkdM=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -340,6 +340,40 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icones\\vestiario.png"
     },
     {
+      "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\login_48.png",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/login_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\login_48.png"
+    },
+    {
+      "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\login1.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/login1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\login1.jpg"
+    },
+    {
       "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\Logo.png",
       "SourceId": "AcademiaCorpus",
       "SourceType": "Discovered",
@@ -389,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home2.jpg"
+    },
+    {
+      "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\registro1.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/registro1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\registro1.jpg"
     },
     {
       "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\StartYour.jpg",
