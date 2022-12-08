@@ -1,4 +1,5 @@
 using AcademiaCorpus.Context;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,9 +7,18 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//Adicionando serviço de conexão com o banco de dados
 builder.Services.AddDbContext<AppDbContext>(options => options
                .UseSqlServer(builder.Configuration
                .GetConnectionString("DefaultConnection")));
+
+//Adicionando serviço do Microsoft.AspNetCore.Identity.EntityFrameworkCore
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+       .AddEntityFrameworkStores<AppDbContext>()
+       .AddDefaultTokenProviders();
+
+
+
 
 var app = builder.Build();
 
@@ -25,7 +35,17 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+
+
+
+//Função do DbContext
 app.UseAuthorization();
+//Função do Identity
+app.UseAuthorization();
+
+
+
+
 
 app.UseEndpoints(endpoints =>
 {
