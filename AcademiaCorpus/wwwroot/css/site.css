@@ -696,3 +696,10 @@ footer {
     width: 1px;
     height: 1px;
 }
+
+
+/*-----------------Pagina Login--------------------*/
+
+.loginContainer {
+    padding-top: 110px;
+}
