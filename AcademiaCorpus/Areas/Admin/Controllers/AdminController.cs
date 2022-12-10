@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace AcademiaCorpus.Areas.Admin.Controllers;
-
+[Authorize]
 [Area("Admin")]
 public class AdminController : Controller
 {

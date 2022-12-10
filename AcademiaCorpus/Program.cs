@@ -1,4 +1,4 @@
-using AcademiaCorpus.Context;
+ï»¿using AcademiaCorpus.Context;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,18 +7,24 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-//Adicionando serviço de conexão com o banco de dados
+//Adicionando serviÃ§o de conexÃ£o com o banco de dados
 builder.Services.AddDbContext<AppDbContext>(options => options
                .UseSqlServer(builder.Configuration
                .GetConnectionString("DefaultConnection")));
 
-//Adicionando serviço do Microsoft.AspNetCore.Identity.EntityFrameworkCore
+//Adicionando serviÃ§o do Microsoft.AspNetCore.Identity.EntityFrameworkCore
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
        .AddEntityFrameworkStores<AppDbContext>()
        .AddDefaultTokenProviders();
 
+// Relacionado ao cash
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddControllersWithViews();
 
 
+//Habilitando o cash
+builder.Services.AddMemoryCache();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -35,12 +41,12 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+//Habilitando cash
+app.UseSession();
 
-
-
-//Função do DbContext
-app.UseAuthorization();
-//Função do Identity
+// Configura Identity para gerenciar loguin
+app.UseAuthentication();
+//FunÃ§Ã£o do DbContext
 app.UseAuthorization();
 
 
