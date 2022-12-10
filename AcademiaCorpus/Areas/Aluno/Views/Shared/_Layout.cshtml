@@ -30,32 +30,17 @@
                         <li class="nav-item">
                             <a class="nav-link text-white @(ViewBag.OpcaoMenu == 1 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 2 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Planos">PLANOS</a>
+                        @* <li class="nav-item">
+                        <a class="nav-link text-white @(ViewBag.OpcaoMenu == 2 ? "active" : "")" asp-area="Admin" asp-controller="Home" asp-action="Planos">PLANOS</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 3 ? "active" : "")" asp-area="" asp-controller="Home" asp-action="FaleConosco">FALE CONOSCO</a>
-                        </li>
-                        @if (User.IsInRole("Admin"))
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link text-white @(ViewBag.OpcaoMenu == 4 ? "active" : "")" asp-area="Admin" asp-controller="Admin" asp-action="Index">ADMIN</a>
-                            </li>
-                        }
-                        <li class="nav-item">
-                            <a class="nav-link text-white @(ViewBag.OpcaoMenu == 5 ? "active" : "")" asp-area="Aluno" asp-controller="Aluno" asp-action="Index">AREA DO ALUNO</a>
-                        </li>
-
-                        <li class="nav-item">
-                            @await Html.PartialAsync("_LoginPartial")
-                        </li>
-
+                        <a class="nav-link text-white @(ViewBag.OpcaoMenu == 3 ? "active" : "")" asp-area="Admin" asp-controller="Home" asp-action="FaleConosco">Fale Conosco</a>
+                        </li>*@
                     </ul>
 
                 </div>
 
             </div>
-
         </nav>
     </header>
 
