@@ -1,7 +1,10 @@
 ﻿using AcademiaCorpus.Context;
+using AcademiaCorpus.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
+
+//--------------------------------------------------------------------------------------------------------
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -26,6 +29,21 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
 
+//Configurando IssedUserRoleInitial
+builder.Services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
+//Registrando serviço authorization admin
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("Admin",
+        politica =>
+        {
+            politica.RequireRole("Admin");
+        });
+});
+
+
+//--------------------------------------------------------------------------------------------------------
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -41,6 +59,16 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+//Chamando funcção CriarPerfisUsuarios
+CriarPerfisUsuarios(app);
+
+////Cria os perfis 
+//SeedUserRoleInitial.SeedRoles();
+////Cria os usuários e atribui ao perfil
+//SeedUserRoleInitial.SeedUsers();
+
+
+
 //Habilitando cash
 app.UseSession();
 
@@ -48,10 +76,6 @@ app.UseSession();
 app.UseAuthentication();
 //Função do DbContext
 app.UseAuthorization();
-
-
-
-
 
 app.UseEndpoints(endpoints =>
 {
@@ -74,3 +98,16 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+
+//------------------------------------------------------------------------------------------------------------
+//Criando serviços SeedRoles e SeedUsers
+static void CriarPerfisUsuarios(WebApplication app)
+{
+    var scopedFactory = app.Services.GetService<IServiceScopeFactory>();
+    using var scope = scopedFactory.CreateScope();
+    var service = scope.ServiceProvider.GetService<ISeedUserRoleInitial>();
+    service.SeedRoles();
+    service.SeedUsers();
+}

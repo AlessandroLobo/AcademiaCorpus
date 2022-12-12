@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets\\imagens\\login_48.png"
     },
     {
+      "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\negado1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\negado1.jpg"
+    },
+    {
       "Id": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\registro1.jpg",
       "PackagePath": "staticwebassets\\imagens\\registro1.jpg"
     },

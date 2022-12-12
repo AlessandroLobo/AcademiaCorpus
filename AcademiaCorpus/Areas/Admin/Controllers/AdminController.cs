@@ -2,8 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace AcademiaCorpus.Areas.Admin.Controllers;
-[Authorize]
+
 [Area("Admin")]
+[Authorize("Admin")]
 public class AdminController : Controller
 {
     public IActionResult Index()

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "us4jNxZeLW4bs+KEl1LSKojeAJMSQL5U+BqT3lOIkdM=",
+  "Hash": "1+xYDObRMH11+9u4XhvUF2cBac/FFFY22TDln3tPWz4=",
   "Source": "AcademiaCorpus",
   "BasePath": "_content/AcademiaCorpus",
   "Mode": "Default",
@@ -423,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\Modelo-Home2.jpg"
+    },
+    {
+      "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\negado1.jpg",
+      "SourceId": "AcademiaCorpus",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\",
+      "BasePath": "_content/AcademiaCorpus",
+      "RelativePath": "imagens/negado1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\negado1.jpg"
     },
     {
       "Identity": "C:\\Workspace\\AcademiaCorpus\\AcademiaCorpus\\wwwroot\\imagens\\registro1.jpg",
