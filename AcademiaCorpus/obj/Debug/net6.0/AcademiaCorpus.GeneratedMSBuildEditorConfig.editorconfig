@@ -9,93 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AcademiaCorpus
 build_property.RootNamespace = AcademiaCorpus
-build_property.ProjectDir = C:\Workspace\AcademiaCorpus\AcademiaCorpus\
+build_property.ProjectDir = c:\Workspace\AcademiaCorpus\AcademiaCorpus\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Workspace\AcademiaCorpus\AcademiaCorpus
+build_property.MSBuildProjectDirectory = c:\Workspace\AcademiaCorpus\AcademiaCorpus
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/Admin/Index.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/Shared/_Layout.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/_ViewImports.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/_ViewStart.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/Aluno/Index.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/Aluno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWx1bm9cVmlld3NcQWx1bm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/Shared/_Layout.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWx1bm9cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/_ViewImports.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWx1bm9cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/_ViewStart.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Areas/Aluno/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWx1bm9cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/AccessDenied.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/Login.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/Register.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/FaleConosco.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/FaleConosco.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYWxlQ29ub3Njby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/Index.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/Planos.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Home/Planos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFub3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/Error.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_Footer.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_LoginPartial.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/_ViewImports.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/_ViewStart.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_Layout.cshtml]
+[c:/Workspace/AcademiaCorpus/AcademiaCorpus/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cvzwvcvzf3
