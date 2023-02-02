@@ -381,7 +381,7 @@ footer {
 }
 
 .planos-box {
-    color: white;
+    color: black;
     padding-top: 40px;
     display: flex;
     flex-wrap: wrap;
@@ -391,7 +391,7 @@ footer {
 
 .planos-cards {
     max-width: 800px;
-    color: white;
+    color: black;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
